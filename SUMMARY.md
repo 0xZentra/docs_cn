@@ -1,18 +1,44 @@
 # Table of contents
 
-* [什么是 Zentra](README.md)
+* [欢迎来到 Zentra](README.md)
+* [为什么选择 Zentra](why-zentra.md)
 
-## 架构 <a href="#arch" id="arch"></a>
+## 主要特性
 
-* [角色](arch/jue-se.md)
-* [链与索引器](arch/lian-yu-suo-yin-qi.md)
-* [用户操作](arch/yong-hu-cao-zuo.md)
-* [资产和应用](arch/zi-chan-he-ying-yong.md)
+* [Python 字节码](key-features/python-to-blockchain.md)
+* [可升级的生态系统](key-features/upgradable-ecosystem.md)
+
+## 架构
+
+* [角色](arch/lian-yu-suo-yin-qi.md)
+
+***
+
+* [Minus Theory](https://github.com/0xZentra/whitepaper)
+
+## 核心概念
+
+* [输入与状态](core-concepts/input-and-state.md)
+* [应用状态](core-concepts/app-state.md)
+* [并行虚拟机](core-concepts/parallel-vm.md)
 * [代码和委员会](arch/dai-ma-he-wei-yuan-hui.md)
 
-## 如何参与 <a href="#contribute" id="contribute"></a>
+## 代币经济学
 
-* [使用区块链应用](contribute/shi-yong-qu-kuai-lian-ying-yong.md)
-* [创建应用和资产](contribute/chuang-jian-ying-yong-he-zi-chan.md)
-* [参与审查代码](contribute/can-yu-shen-cha-dai-ma.md)
-* [提议新的使用场景](contribute/ti-yi-xin-de-shi-yong-chang-jing.md)
+* [全局状态爆炸](tokenomic/global-state-explosion.md)
+* [比特币悖论](tokenomic/bitcoin-paradox.md)
+* [全局空间稀缺性](tokenomic/global-space-scarcity.md)
+* [Zentra 代币经济学](tokenomic/zentra-tokenomic.md)
+
+## 常见问题与故障排除
+
+* [Zentra 是去中心化的吗？](faq-and-troubleshooting/is-zentra-decentralized.md)
+* [Zentra 是 DA 吗？](faq-and-troubleshooting/is-zentra-a-da.md)
+
+***
+
+* [安全和验证如何工作？](how-does-security-and-verification-works.md)
+
+## 社区与支持
+
+* [加入 Zentra 社区](community-and-support/join-zentra-community.md)
