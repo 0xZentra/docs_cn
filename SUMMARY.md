@@ -10,7 +10,7 @@
 
 ## 架构
 
-* [角色](arch/lian-yu-suo-yin-qi.md)
+* [Zentra的角色](arch/zentra-role.md)
 
 ***
 

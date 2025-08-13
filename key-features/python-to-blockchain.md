@@ -1,8 +1,8 @@
-# Python 字节码
+# Python 来到区块链
 
 Python 凭借其 30 年的积极开发和多次重新设计，已成为世界上最流行和最通用的编程语言之一。Python 以其简洁性、可读性、和广泛的生态系统而闻名，已成为许多领域开发者的首选，从 Web 开发到机器学习，现在还包括区块链编程。
 
-Zentra 将 Python 集成到区块链开发中的方法是独一无二的，因为它不依赖于创建新的编译器，这**大大降低了安全风险**。相反，Zentra 直接将 Python 源代码转换为 [Python 字节码](https://docs.solana.com/zh-cn/developers/program-reference/token-program)，确保在区块链环境中无缝执行。
+Zentra 将 Python 集成到区块链开发中的方法是独一无二的，因为它不依赖于创建新的编译器，这**大大降低了安全风险**。相反，Zentra 直接将 Python 源代码转换为 [Python 字节码](https://docs.python.org/3.10/library/dis.html)，确保在区块链环境中无缝执行。
 
 在 Zentra 的架构中，Python 代码作为区块链上的**状态转移函数**发挥着关键作用，确保每个 Zentra 索引器节点对区块链输入运行相同的代码。这保证了整个区块链网络的一致性和确定性，这是维护去中心化系统信任和完整性的基本要求。
 
