@@ -4,6 +4,6 @@
 查找其他资源
 {% endembed %}
 
-{% embed url="https://t.me/+tn744qPPVuthMDQ9" %}
+{% embed url="https://t.me/+MbcGsTGq2ppkYzE1" %}
 Telegram 社区
 {% endembed %}
