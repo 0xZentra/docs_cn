@@ -5,8 +5,8 @@
 
 ## 主要特性
 
-* [Python 字节码](key-features/python-to-blockchain.md)
 * [可升级的生态系统](key-features/upgradable-ecosystem.md)
+* [Python 字节码](key-features/python-to-blockchain.md)
 
 ## 架构
 
@@ -29,6 +29,13 @@
 * [比特币悖论](tokenomic/bitcoin-paradox.md)
 * [全局空间稀缺性](tokenomic/global-space-scarcity.md)
 * [Zentra 代币经济学](tokenomic/zentra-tokenomic.md)
+
+## 空投计划 <a href="#airdrop" id="airdrop"></a>
+
+* [空投计划](airdrop/kong-tou-ji-hua.md)
+* [影响力空投](airdrop/ying-xiang-li-kong-tou.md)
+* [质押空投](airdrop/zhi-ya-kong-tou.md)
+* [智能合约解读](airdrop/zhi-neng-he-yue-jie-du.md)
 
 ## 常见问题与故障排除
 
