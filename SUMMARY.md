@@ -7,6 +7,7 @@
 
 * [可升级的生态系统](key-features/upgradable-ecosystem.md)
 * [Python 字节码](key-features/python-to-blockchain.md)
+* [抗量子特性](key-features/kang-liang-zi.md)
 
 ## 架构
 
